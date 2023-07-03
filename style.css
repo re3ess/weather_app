@@ -46,7 +46,7 @@ body {
 .search-box input::placeholder {
   font-size: 20px;
   font-weight: 500;
-  color: #06283d;
+  color: gray;
 }
 
 .search-box button {
